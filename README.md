@@ -29,6 +29,6 @@ open index.html
 
 ### Here are some snapshots from game.
 
-<img src="Images/snapshot1.png" width=95% alt="snapshots">
-<img src="Images/snapshot2.png" width=95% alt="snapshots">
-<img src="Images/snapshot3.png" width=95% alt="snapshots">
+<img src="Images/Image1.png" width=95% alt="snapshots">
+<img src="Images/Image2.png" width=95% alt="snapshots">
+<img src="Images/Image3.png" width=95% alt="snapshots">
