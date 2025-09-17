@@ -8,7 +8,7 @@
 html, body {
     margin: 0;
     padding: 0;
-    background: #f4f4f4;
+    background: #f4f4f4f6;
     color: #333;
     width: 100vw;
     height: 100vh;
@@ -19,7 +19,7 @@ html, body {
     font-size: 24px;
     font-weight: 600;
     padding: 20px;
-    background: #ffffff;
+    background: #fffffffa;
     box-shadow: 0 2px 4px rgba(0,0,0,0.05);
 }
 
@@ -37,7 +37,7 @@ html, body {
 }
 
 button {
-    background: #000;
+    background: #000000d7;
     color: #fff;
     border: none;
     padding: 10px 20px;
